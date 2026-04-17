@@ -1,0 +1,9 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,1000
+2,Mouse,Electronics,20
+3,Keyboard,Electronics,50
+4,Monitor,Electronics,200
+5,Chair,Furniture,150
+6,Desk,Furniture,300
+7,Book,Stationery,10
+8,Pen,Stationery,2
