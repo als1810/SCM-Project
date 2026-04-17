@@ -1,5 +1,10 @@
 # 📦 Supply Chain Management Dashboard (P1: Order & Inventory Visibility)
 
+## 👨‍💻 Author
+
+* Akhilesh Anil (PES1UG23CS045)
+* Akshaj L Shastry (PES1UG23CS047)
+
 ## 📌 Project Overview
 
 This project is developed as part of the **UE23CS342BA1 – Supply Chain Management for Engineers** course.
@@ -248,12 +253,6 @@ scm-dashboard/
 * Advanced ML models (LSTM, Prophet)
 * Supplier performance tracking
 * API-based architecture
-
----
-
-## 👨‍💻 Author
-
-* Akshaj L Shastry
 
 ---
 
